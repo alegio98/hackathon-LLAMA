@@ -10,13 +10,13 @@ natural_language_examples = []
 for _, row in dataset.iterrows():
     zona = row['Zona']
     orario = row['Orario']
-    volume_traffico = int(row['Volume Traffico'] * 1000)  # De-normalizing
-    velocita = int(row['Velocità Media (km/h)'] * 100)  # De-normalizing
+    volume_traffico = int(row['Volume Traffico'])  # De-normalizing
+    velocita = int(row['Velocità Media (km/h)'])  # De-normalizing
     rallentamenti = "moderato" if row['Eventuali Rallentamenti'] == 0 else "elevato"
-    pm10 = int(row['PM10 (μg/m³)'] * 100)  # De-normalizing
-    no2 = int(row['NO2 (μg/m³)'] * 100)  # De-normalizing
-    o3 = int(row['O3 (μg/m³)'] * 100)  # De-normalizing
-    aqi = int(row['AQI'] * 100)  # De-normalizing
+    pm10 = int(row['PM10 (μg/m³)'])  # De-normalizing
+    no2 = int(row['NO2 (μg/m³)'])  # De-normalizing
+    o3 = int(row['O3 (μg/m³)'])  # De-normalizing
+    aqi = int(row['AQI'])  # De-normalizing
     bus = row['Bus']
 
     # Crea una frase contestuale e utile
