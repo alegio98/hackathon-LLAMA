@@ -1,4 +1,4 @@
-# **Hack4Hope Project: "SmartMove" - Mobilità Intelligente per una Vita Sostenibile**
+# **Hack4Hope Project: "AI Voyager" - Mobilità Intelligente per una Vita Sostenibile**
 
 ## **Overview**
 "SmartMove" è un assistente digitale basato sull’intelligenza artificiale, progettato per ottimizzare la mobilità urbana a Roma. Utilizzando dati sul traffico, la qualità dell’aria e gli orari di punta, SmartMove suggerisce i momenti migliori per spostarsi, offrendo alternative ecologiche e percorsi ottimali.
@@ -71,7 +71,7 @@ Il progetto combina modelli avanzati di AI, come GPT-2, con dati provenienti da 
 ### **Team Hack4Hope**
 - Alessandro Giovannini
 - Floriano Caprio
-- Davide M. Bozzone
+
 
 ---
 
