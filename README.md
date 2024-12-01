@@ -2,8 +2,8 @@
 
 <div style="display: flex; justify-content: center; gap: 10px; margin-top: 20px;">
     <img src="screen1.jpeg" alt="Screenshot 1" style="width: 30%; border-radius: 5px;" />
-    <img src="screen2.jpeg" alt="Screenshot 2" style="width: 30%; border-radius: 5px;" />
-    <img src="screen3.jpeg" alt="Screenshot 3" style="width: 30%; border-radius: 5px;" />
+    <img src="screen3.jpeg" alt="Screenshot 2" style="width: 30%; border-radius: 5px;" />
+    <img src="screen2.jpeg" alt="Screenshot 3" style="width: 30%; border-radius: 5px;" />
 </div>
 
 
