@@ -1,5 +1,12 @@
 # **Hack4Hope Project: "AI Voyager" - Mobilità Intelligente per una Vita Sostenibile**
 
+<div style="display: flex; justify-content: center; gap: 10px; margin-top: 20px;">
+    <img src="screen1.jpeg" alt="Screenshot 1" style="width: 30%; border-radius: 5px;" />
+    <img src="screen2.jpeg" alt="Screenshot 2" style="width: 30%; border-radius: 5px;" />
+    <img src="screen3.jpeg" alt="Screenshot 3" style="width: 30%; border-radius: 5px;" />
+</div>
+
+
 ## **Overview**
 "AI Voyager" è un assistente digitale basato sull’intelligenza artificiale, progettato per ottimizzare la mobilità urbana a Roma. Utilizzando dati sul traffico, la qualità dell’aria e gli orari di punta, SmartMove suggerisce i momenti migliori per spostarsi, offrendo alternative ecologiche e percorsi ottimali.
 
