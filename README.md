@@ -65,6 +65,11 @@ Il progetto combina modelli avanzati di AI, come GPT-2, con dati provenienti da 
 - Interfaccia Streamlit per interazioni user-friendly.
 
 ---
+## **Deploy**
+Abbiamo usato streamlit per creare l'interfaccia grafica e fare il deploy. Addestrare la rete in modo efficiente ci richiede molte ore (che non abbiamo, data la scadenza
+della consegna), quindi è stata addestrata una sottorete che ci ha consentito in poche ore di riuscire a trovare dei risultati buoni. 
+
+---
 
 ## **Contributors**
 
