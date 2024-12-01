@@ -68,7 +68,7 @@ Il progetto combina modelli avanzati di AI, come GPT-2, con dati provenienti da 
 
 ## **Contributors**
 
-### **Team SmartMove**
+### **Team Hack4Hope**
 - Alessandro Giovannini
 - Floriano Caprio
 - Davide M. Bozzone
